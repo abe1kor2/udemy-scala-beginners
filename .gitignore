@@ -146,9 +146,21 @@ project/plugins/project/
 .history
 .cache
 .lib/
+.bloop
 
 ### Scala ###
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/scala,java,intellij,sbt
+
+### Metals and Bloop ###
+# Metals language server
+.metals/
+.bloop/
+.bsp/
+project/metals.sbt
+project/project/
+
+# VS Code user-specific settings
+.vscode/settings.json
