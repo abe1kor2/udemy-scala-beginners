@@ -162,5 +162,8 @@ project/plugins/project/
 project/metals.sbt
 project/project/
 
+# Scala CLI
+.scala-build/
+
 # VS Code user-specific settings
 .vscode/settings.json
