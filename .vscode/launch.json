@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Functions",
+      "mainClass": "lectures.part1basics.Functions",
+      "buildTarget": "file:/Users/abekor/Documents/GitHub/udemy-scala-beginners/?id=udemy-scala-beginners",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Recurrion",
+      "mainClass": "lectures.part1basics.Recurrion",
+      "buildTarget": "file:/Users/abekor/Documents/GitHub/udemy-scala-beginners/?id=udemy-scala-beginners",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
